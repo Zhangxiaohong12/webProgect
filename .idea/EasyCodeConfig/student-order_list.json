@@ -1,0 +1,59 @@
+{
+  "obj" : null,
+  "name" : "OrderList",
+  "comment" : null,
+  "fullColumn" : [ {
+    "obj" : null,
+    "name" : "orderId",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "orderUserId",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "orderDateTime",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "orderIsSend",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "orderIsValid",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "orderTotalPrice",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "orderStatus",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "orderComment",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "easycode.common",
+  "savePath" : "./src/main/java/easycode/common",
+  "saveModelName" : "webProject"
+}

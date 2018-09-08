@@ -1,0 +1,35 @@
+{
+  "obj" : null,
+  "name" : "Categories",
+  "comment" : null,
+  "fullColumn" : [ {
+    "obj" : null,
+    "name" : "categoriesId",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "categoriesName",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "categoriesOrder",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "categoriesStatus",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "easycode.common",
+  "savePath" : "./src/main/java/easycode/common",
+  "saveModelName" : "webProject"
+}

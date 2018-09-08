@@ -1,0 +1,77 @@
+{
+  "obj" : null,
+  "name" : "OrderDetail",
+  "comment" : null,
+  "fullColumn" : [ {
+    "obj" : null,
+    "name" : "detailId",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailGoodsId",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailGoodsCount",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailGoodsUnit",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailGoodsPrice",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailTotalPrice",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailComment",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailStatus",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailOrderId",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailUserId",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "detailDateTime",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "easycode.common",
+  "savePath" : "./src/main/java/easycode/common",
+  "saveModelName" : "webProject"
+}

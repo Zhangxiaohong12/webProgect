@@ -1,0 +1,59 @@
+{
+  "obj" : null,
+  "name" : "Users",
+  "comment" : null,
+  "fullColumn" : [ {
+    "obj" : null,
+    "name" : "usersId",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "usersName",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "usersPassword",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "usersRealName",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "usersSex",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "usersEmail",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "usersLocation",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  }, {
+    "obj" : null,
+    "name" : "usersTime",
+    "comment" : null,
+    "type" : null,
+    "ext" : null
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "easycode.common",
+  "savePath" : "./src/main/java/easycode/common",
+  "saveModelName" : "webProject"
+}
